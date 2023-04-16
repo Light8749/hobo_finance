@@ -1408,6 +1408,9 @@ mix-blend-mode: normal;
 		width:100%;
 		
 	}
+	.sectionThree h2{
+		padding:0;
+	}
 	.leftSide img{
 		width: 101.95px;
 		margin-top: 20px;
