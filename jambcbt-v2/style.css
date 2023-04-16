@@ -1404,6 +1404,10 @@ mix-blend-mode: normal;
 	.divFlexone{
 		height: 200vh;
 	}
+	.sectionThreeFlex{
+		width:100%;
+		
+	}
 	.leftSide img{
 		width: 101.95px;
 		margin-top: 20px;
