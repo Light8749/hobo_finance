@@ -1186,6 +1186,9 @@ mix-blend-mode: normal;
 	.logo{
 		flex: 2;
 	}
+	.menu{
+		margin-top: -10%;
+	}
     .logo span p{
 		padding-left: 5%;
 		padding-top: -18%;
