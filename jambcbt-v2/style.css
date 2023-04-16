@@ -1181,7 +1181,7 @@ mix-blend-mode: normal;
 		
 	}
 	.sectionTwo{
-		height: 197vh;
+		height: 168vh;
 	}
 	.logo{
 		flex: 2;
@@ -1237,7 +1237,7 @@ mix-blend-mode: normal;
 }
 @media only screen and (max-width:426px){
 	.menu{
-		margin-top: 8%;
+		margin-top: 10%;
 	}
 	.sectionFive{
 		height: 280vh;
