@@ -1186,9 +1186,7 @@ mix-blend-mode: normal;
 	.logo{
 		flex: 2;
 	}
-	.menu{
-		margin-top: -10%;
-	}
+
     .logo span p{
 		padding-left: 5%;
 		padding-top: -18%;
@@ -1238,6 +1236,9 @@ mix-blend-mode: normal;
 	}
 }
 @media only screen and (max-width:426px){
+	.menu{
+		margin-top: 10%;
+	}
 	.sectionFive{
 		height: 280vh;
 		background-size:  110px, 340px;
@@ -1252,7 +1253,7 @@ mix-blend-mode: normal;
 	}
 	.sectioneight{
 		border: 1px solid black;
-		height: auto;
+		height: 100vh;
 	}
 	.sectioneight .footer{
 		flex-direction: column;
