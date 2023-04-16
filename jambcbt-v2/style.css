@@ -1245,6 +1245,7 @@ mix-blend-mode: normal;
 	.sectionone{
 		background-size:  160px, 340px;
 		height: 130vh;
+		background-image: url(./img/image-removebg-preview\ \(2\)\ 1.png);
 	}
 	.sectioneight{
 		border: 1px solid black;
@@ -1322,7 +1323,7 @@ mix-blend-mode: normal;
 	.logo{
 		
 		flex: 1;
-		margin-top: 7%;
+		margin-top: 6;
 	}
 	.sectionSix{
 		height: 600vh;
@@ -1336,7 +1337,7 @@ mix-blend-mode: normal;
 	}
 	.logo span p{
 		font-size: 7px;
-		margin-top: -40%;
+		margin-top: -23%;
 	}
 	.sectioneight .sectionEightFlex{
 		flex-direction: column;
@@ -1427,10 +1428,6 @@ mix-blend-mode: normal;
 	.sectioneight .footer .icons{
 		margin-top: 10%;
 		margin-right: 13%;
-		margin-bottom:7%;
-		
-	}
-	.sectioneigh{
-		height:auto;
+		margin-bottom: 10%;
 	}
 }
