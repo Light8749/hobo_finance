@@ -1253,7 +1253,7 @@ mix-blend-mode: normal;
 	}
 	.sectioneight{
 		border: 1px solid black;
-		height: 100vh;
+		height: 0vh;
 	}
 	.sectioneight .footer{
 		flex-direction: column;
