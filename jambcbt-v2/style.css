@@ -1427,6 +1427,10 @@ mix-blend-mode: normal;
 	.sectioneight .footer .icons{
 		margin-top: 10%;
 		margin-right: 13%;
+		margin-bottom:7%;
 		
+	}
+	.sectioneigh{
+		height:auto;
 	}
 }
