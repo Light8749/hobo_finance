@@ -1237,10 +1237,10 @@ mix-blend-mode: normal;
 }
 @media only screen and (max-width:426px){
 	.menu{
-		margin-top: 8%;
+		
 	}
 	.sectionFive{
-		height: 280vh;
+		height: 200vh;
 		background-size:  110px, 340px;
 	}
 	.sectionFive h2{
@@ -1315,6 +1315,9 @@ letter-spacing: 0.01em;
 color: #FFFFFF;
 
 mix-blend-mode: normal;
+	}
+	.enlarge{
+	    width:110px;
 	}
 	.sectionsevenFlex .left button{
 		width: 40%;
