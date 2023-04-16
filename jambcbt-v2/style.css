@@ -1237,7 +1237,7 @@ mix-blend-mode: normal;
 }
 @media only screen and (max-width:426px){
 	.menu{
-		margin-top: 10%;
+		margin-top: 8%;
 	}
 	.sectionFive{
 		height: 280vh;
